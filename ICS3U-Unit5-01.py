@@ -21,7 +21,7 @@ def fahrenheit():
         print("{0}°C is equal to {1:.2f}°F.".format(celsius_temp, fahrenheit_temp))
 
     except ValueError:
-        print("{0}, is invalid input please try again.")
+        print("{0}, is invalid input please try again.".format(celsius_string))
 
     print("\n\nDone.")
 
