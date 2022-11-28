@@ -8,7 +8,7 @@ import math
 
 
 def fahrenheit():
-    # this function takes temp in degrease celsius 
+    # this function takes temp in degrease celsius
     # and converts it into fahrenheit.
 
     # input
