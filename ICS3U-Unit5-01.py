@@ -23,12 +23,12 @@ def fahrenheit():
     except ValueError:
         print("{0}, is invalid input please try again.".format(celsius_string))
 
-    print("\n\nDone.")
-
 
 def main():
     fahrenheit()
 
-    
+    print("\nDone.")
+
+
 if __name__ == "__main__":
     main()
